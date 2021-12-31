@@ -1,5 +1,7 @@
+import { Hero } from '../components/Profile/index';
+
 const Profile = () => {
-  return <div>Profile Page</div>;
+  return <Hero />;
 };
 
 export default Profile;
